@@ -31,4 +31,4 @@ source "https://rubygems.org"
 
 
 #per that git repo hacker/Gemfile
-Gemspec
+gemspec
