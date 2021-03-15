@@ -9,10 +9,15 @@ layout: main
 **<u>Guy Bou Lahdou</u>**, Laura Bowling, Jane Frankenberger and Eileen Kladivko (2019). Analysis of Drainage Events in Free Draining and Managed
 Subsurface Drainage systems. *Journal of Agricultural Water Management* [[Project Website](https://sustainablecorn.org/)] [[Publication website](https://www.sciencedirect.com/science/article/abs/pii/S037837741831672X)]
 
-<iframe class="list-video-right" width="400" height="225" src="https://www.youtube.com/watch?v=7ITS7EyyBrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+ 
 One of the strategies proposed for reducing nitrate losses from subsurface tile drain systems in Midwestern agricultural lands, controlled drainage, is known to reduce drain flow on an annual basis, but is not well understood for individual events. Understanding hydrologic controls that regulate outflow from free and controlled drainage systems during drainage events can offer improved insight on the overall functioning of these systems so that they can be better managed or retrofitted to increase their environmental benefits. This study used data from a monitoring site in east central Indiana to investigate the hydrology of 22 drainage events in free and controlled subsurface drainage systems. Relationships between event drainage volume, drain flow hydrograph metrics, column soil moisture, water table depth, and precipitation time series for each event were explored to determine the effect of precipitation characteristics and antecedent conditions on these metrics. Controlled drainage reduced event drainage volume and peak flows by 22% ± 12% and 29% ± 16% respectively, and increased the time to peak of drainage by 98% ± 52%. Higher total precipitation and precipitation time spread increased infiltration, while the average precipitation intensity did not correlate with drainage volumes in either system. Peak flow rate in free draining quadrants were positively affected by higher precipitation and average precipitation intensity, while in managed quadrants, the antecedent soil moisture appeared to be more influential in affecting peak flow rate than precipitation characteristics. Surface runoff potential increased with the increase in average precipitation intensity in all quadrants. Saturation excess ponding or possibly overland flow occurred in events that have a low average precipitation intensity, and a high precipitation time spread. Field observations indicate that saturation excess overland flow was more pronounced in controlled quadrants because water table levels rose higher than the water table levels of their free draining counterpart.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ITS7EyyBrc" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {:style="clear: left"}
+
+
 &nbsp;
 
 ### Agricultural and Climate Research Collaboration
